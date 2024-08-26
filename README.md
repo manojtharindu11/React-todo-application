@@ -1,8 +1,15 @@
-# React + Vite
+# React Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple Todo application built using React.js and Vite. The app allows users to add, update, delete, and store their tasks in the browser's local storage.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Add Todos**: Create new tasks and add them to your list.
+- **Update Todos**: Edit existing tasks to keep your list up-to-date.
+- **Delete Todos**: Remove tasks that are no longer needed.
+- **Persistent Storage**: Your tasks are stored in the browser's local storage, so they remain available even after you refresh or close the browser.
+
+Deployment
+You can view and use the deployed application at the following link:
+
+[React Todo App](https://reactjs-todos-application.netlify.app/)
